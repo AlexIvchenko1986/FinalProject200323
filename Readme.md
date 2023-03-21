@@ -5,4 +5,4 @@
 2. __[“1234”, “1567”, “-2”, “computer science”] → [“-2”]__
 3. __[“Russia”, “Denmark”, “Kazan”] → []__
 
-
+## Нарисовали блок схему к задаче в файле _diagram.drawio.png_
